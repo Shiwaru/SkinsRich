@@ -8,6 +8,7 @@ Minecraft Java plugin for NeoForge.
 NeoForge is a direct dependency.
 For 1.21.11 - NeoForge 21.11.37-beta at least, is needed.
 For 1.21.10 - NeoForge last version is required.
+
 [![GitHub Releases](https://img.shields.io/badge/neoforge-releases-a94e0d?style=for-the-badge)](https://neoforged.net/)
 
 Current version is v0.2 in both 1.21.10 and 1.21.11
