@@ -2,7 +2,7 @@
 
 Minecraft Java plugin for NeoForge.
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/skinsrich
-
+ 
 NeoForge is a direct dependency.
 For 1.21.11 - NeoForge 21.11.37-beta at least, is needed.
 For 1.21.10 - NeoForge last version is required.
