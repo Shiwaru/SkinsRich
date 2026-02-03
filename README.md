@@ -1,6 +1,7 @@
 # SkinsRich - Wear skins in offline worlds. 
 
 <img src="https://github.com/Shiwaru/SkinsRich/blob/main/avatarHead.png" width="150" height="150"></img>
+
 [![GitHub Releases](https://img.shields.io/badge/latest-downloads-8A2BE2?style=for-the-badge)](https://github.com/Shiwaru/SkinsRich/releases)
 [![GitHub Releases](https://img.shields.io/badge/CurseForge%20Downloads-F08437?style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/skinsrich)
 [![GitHub Releases](https://img.shields.io/badge/neoforge-releases-a94e0d?style=for-the-badge)](https://neoforged.net/)
