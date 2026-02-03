@@ -14,7 +14,7 @@ For 1.21.10 - NeoForge last version is required.
 
 Current version is v0.2 in both 1.21.10 and 1.21.11
 
-Known issues are right now:
+Known issues are:
 - Others cannot see your skin in LAN worlds (Which is my priority right now)
 - Skins with weird ascii chars doesn't fetch properly
 - OptiFine capes tend to break
