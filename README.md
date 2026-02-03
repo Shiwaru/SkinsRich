@@ -1,6 +1,7 @@
 # SkinsRich - Wear skins in offline worlds. 
 
-[![GitHub Releases](https://img.shields.io)](https://github.com)
+[![GitHub Releases](https://img.shields.io)](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com)
+ 
 
 Minecraft Java plugin for NeoForge.
 CurseForge: https://www.curseforge.com/minecraft/mc-mods/skinsrich
