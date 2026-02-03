@@ -1,4 +1,4 @@
-# <img src="https://github.com/Shiwaru/SkinsRich/blob/main/avatarHead.png" width="100" height="100"></img> SkinsRich - Wear skins in offline worlds. 
+# <img src="https://github.com/Shiwaru/SkinsRich/blob/main/avatarHead.png" width="50" height="50"></img> SkinsRich - Wear skins in offline worlds. 
 
 
 
