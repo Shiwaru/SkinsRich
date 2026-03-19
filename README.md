@@ -6,6 +6,10 @@
 [![GitHub Releases](https://img.shields.io/badge/CurseForge%20Downloads-F08437?style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/skinsrich)
 [![GitHub Releases](https://img.shields.io/badge/neoforge-releases-a94e0d?style=for-the-badge)](https://neoforged.net/)
 
+> [!WARNING]
+> This project has been fully discontinued.
+
+
 Minecraft Java plugin for NeoForge.
  
 NeoForge is a direct dependency.
